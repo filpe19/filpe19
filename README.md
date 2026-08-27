@@ -10,32 +10,6 @@ I work mainly across backend and full stack product engineering: turning busines
 
 My positioning is Software Engineer / Full Stack Developer with hands-on iOS development experience.
 
-## Engineering Scope
-
-**Backend**
-PHP · Laravel · custom REST APIs · authentication · business rules · transactional workflows
-
-**Frontend**
-React · TypeScript · Vite · admin panels · dashboards · checkout flows
-
-**Data**
-MySQL · data modeling · multi-tenant systems · audit tables · financial and access-control records
-
-**Payments**
-Mercado Pago · Asaas · Telegram Stars · Pix · card checkout · recurring subscriptions · webhooks · idempotency
-
-**Product Engineering**
-SaaS · ticketing · subscriptions · marketplaces · event operations · membership access
-
-**AI & Automation**
-LLM integrations · Telegram bots · financial automation · coding-agent assisted development
-
-**Mobile**
-Swift · SwiftUI · native iOS app development · API integration · QR Code flows
-
-**Infrastructure**
-Docker · Nginx · Cloud Run/Cloud Build · VPS/cPanel deployments · CI/CD · production runbooks
-
 ## Featured Engineering Work
 
 Some production repositories are private. Public material is linked where it can be shared safely.
@@ -83,6 +57,32 @@ Telegram-based financial assistant with LLM intent extraction, deterministic bac
 ## Public Source-Code Proof
 
 Commercial systems remain private, so the public case studies focus on architecture and product evidence. The next portfolio gap is a dedicated non-commercial repository with source code, tests, CI and Docker that demonstrates Laravel/API engineering without copying private intellectual property.
+
+## Engineering Scope
+
+**Backend**
+PHP · Laravel · custom REST APIs · authentication · business rules · transactional workflows
+
+**Frontend**
+React · TypeScript · Vite · admin panels · dashboards · checkout flows
+
+**Data**
+MySQL · data modeling · multi-tenant systems · audit tables · financial and access-control records
+
+**Payments**
+Mercado Pago · Asaas · Telegram Stars · Pix · card checkout · recurring subscriptions · webhooks · idempotency
+
+**Product Engineering**
+SaaS · ticketing · subscriptions · marketplaces · event operations · membership access
+
+**AI & Automation**
+LLM integrations · Telegram bots · financial automation · coding-agent assisted development
+
+**Mobile**
+Swift · SwiftUI · native iOS app development · API integration · QR Code flows
+
+**Infrastructure**
+Docker · Nginx · Cloud Run/Cloud Build · VPS/cPanel deployments · CI/CD · production runbooks
 
 ## AI-Assisted Engineering
 
