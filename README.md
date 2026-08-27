@@ -1,93 +1,93 @@
 # Felipe Souza
 
-**Software Engineer | Full Stack Developer**
+**Engenheiro de Software | Desenvolvedor Full Stack**
 
-Building production SaaS platforms, transactional systems, payment integrations, AI-powered applications and mobile experiences.
+Construo plataformas SaaS, sistemas transacionais, integrações de pagamento, aplicações com IA e experiências mobile.
 
-`Backend` · `Frontend` · `SaaS` · `Payments` · `APIs` · `AI` · `iOS` · `Infrastructure`
+`Backend` · `Frontend` · `SaaS` · `Pagamentos` · `APIs` · `IA` · `iOS` · `Infraestrutura`
 
-I work mainly across backend and full stack product engineering: turning business problems into complete products across architecture, database, backend, frontend, integrations, payment flows, deployment and operation.
+Atuo principalmente em backend e engenharia de produto full stack: transformar problemas de negócio em produtos completos, passando por arquitetura, banco de dados, backend, frontend, integrações, fluxos de pagamento, deploy e operação.
 
-My positioning is Software Engineer / Full Stack Developer with hands-on iOS development experience.
+Meu posicionamento: Engenheiro de Software / Desenvolvedor Full Stack com experiência prática em desenvolvimento iOS.
 
-## Featured Engineering Work
+## Trabalhos de Engenharia em Destaque
 
-Some production repositories are private. Public material is linked where it can be shared safely.
+Alguns repositórios de produção são privados. O material público está linkado onde pode ser compartilhado com segurança.
 
 ### 1. Açaí Finance
 
-**SaaS · Multi-Tenant · Marketplace · Payments**
+**SaaS · Multi-tenant · Marketplace · Pagamentos**
 
-SaaS platform for tenant-isolated business operations, public catalogs, POS flows, Mercado Pago payments, marketplace settlement, wallet ledger and subscription access.
+Plataforma SaaS para operações de negócio com isolamento por tenant, catálogo público, PDV, pagamentos via Mercado Pago, settlement de marketplace, ledger/carteira e controle de acesso por assinatura.
 
-[View Engineering Case Study →](https://github.com/filpe19/acai-finance-case-study)
+[Ver estudo de caso técnico →](https://github.com/filpe19/acai-finance-case-study)
 
 ### 2. TickiTon
 
-**Ticketing · Events · Payments · Transactional Systems**
+**Bilheteria · Eventos · Pagamentos · Sistemas Transacionais**
 
-Event ticketing platform with checkout, stock reservation, Mercado Pago payments, webhook confirmation, ticket generation, signed QR validation, check-in, refunds and producer/admin operations.
+Plataforma de eventos com checkout, reserva de estoque, pagamentos via Mercado Pago, confirmação por webhook, geração de ingressos, validação por QR Code assinado, check-in, reembolsos e operação para produtores/admins.
 
-[View Engineering Case Study →](https://github.com/filpe19/tickiton-case-study)
+[Ver estudo de caso técnico →](https://github.com/filpe19/tickiton-case-study)
 
 ### 3. Jornada Contábil
 
-**Event Infrastructure · Commerce · Payments · Production Operations**
+**Infraestrutura de Evento · Comércio · Pagamentos · Operação em Produção**
 
-Laravel and React platform for a real event operation: authenticated checkout, Asaas payments, QR check-in, participant portal, certificates, private materials, legacy migration, admin operations and production runbooks.
+Plataforma Laravel + React para uma operação real de evento: checkout autenticado, pagamentos via Asaas, check-in por QR Code, portal do participante, certificados, materiais privados, migração de legado, painel administrativo e runbooks de produção.
 
-[View Engineering Case Study →](https://github.com/filpe19/jornada-contabil-case-study)
+[Ver estudo de caso técnico →](https://github.com/filpe19/jornada-contabil-case-study)
 
 ### 4. Club Pass Belém
 
-**Subscriptions · QR Access · Payments · iOS**
+**Assinaturas · Acesso por QR Code · Pagamentos · iOS**
 
-Subscription and access platform connecting members to partner venues through Mercado Pago payments, webhook-driven membership activation, QR Code credentials, validator check-ins, an admin panel and a native SwiftUI iOS application.
+Plataforma de assinatura e acesso que conecta associados a estabelecimentos parceiros por meio de pagamentos Mercado Pago, ativação de assinatura via webhook, credencial em QR Code, validação por operadores, painel administrativo e aplicativo nativo iOS com SwiftUI.
 
-[View Engineering Case Study →](https://github.com/filpe19/club-pass-belem-case-study)
+[Ver estudo de caso técnico →](https://github.com/filpe19/club-pass-belem-case-study)
 
 ### 5. Finance AI
 
-**AI · Telegram · Automation · Financial Assistant**
+**IA · Telegram · Automação · Assistente Financeiro**
 
-Telegram-based financial assistant with LLM intent extraction, deterministic backend finance rules, voice input, Redis queues, idempotent webhooks, Telegram Stars billing and a React/TypeScript admin panel.
+Assistente financeiro no Telegram com interpretação de intenção via LLM, regras financeiras determinísticas no backend, entrada por voz, filas Redis, webhooks idempotentes, cobrança via Telegram Stars e painel administrativo em React/TypeScript.
 
-[View Engineering Case Study →](https://github.com/filpe19/finance-ai-case-study)
+[Ver estudo de caso técnico →](https://github.com/filpe19/finance-ai-case-study)
 
-## Public Source-Code Proof
+## Prova Pública de Código
 
-Commercial systems remain private, so the public case studies focus on architecture and product evidence. The next portfolio gap is a dedicated non-commercial repository with source code, tests, CI and Docker that demonstrates Laravel/API engineering without copying private intellectual property.
+Os sistemas comerciais permanecem privados, então os estudos de caso públicos focam em arquitetura, produto e evidências de engenharia. A próxima lacuna do portfólio é um repositório público independente, com código-fonte, testes, CI e Docker, demonstrando engenharia Laravel/API sem copiar propriedade intelectual de projetos comerciais.
 
-## Engineering Scope
+## Escopo de Engenharia
 
-**Backend**
-PHP · Laravel · custom REST APIs · authentication · business rules · transactional workflows
+**Backend**  
+PHP · Laravel · APIs REST customizadas · autenticação · regras de negócio · fluxos transacionais
 
-**Frontend**
-React · TypeScript · Vite · admin panels · dashboards · checkout flows
+**Frontend**  
+React · TypeScript · Vite · painéis administrativos · dashboards · fluxos de checkout
 
-**Data**
-MySQL · data modeling · multi-tenant systems · audit tables · financial and access-control records
+**Dados**  
+MySQL · modelagem de dados · sistemas multi-tenant · tabelas de auditoria · registros financeiros e de controle de acesso
 
-**Payments**
-Mercado Pago · Asaas · Telegram Stars · Pix · card checkout · recurring subscriptions · webhooks · idempotency
+**Pagamentos**  
+Mercado Pago · Asaas · Telegram Stars · Pix · checkout com cartão · assinaturas recorrentes · webhooks · idempotência
 
-**Product Engineering**
-SaaS · ticketing · subscriptions · marketplaces · event operations · membership access
+**Engenharia de Produto**  
+SaaS · bilheteria · assinaturas · marketplaces · operação de eventos · acesso de associados
 
-**AI & Automation**
-LLM integrations · Telegram bots · financial automation · coding-agent assisted development
+**IA & Automação**  
+Integrações com LLM · bots Telegram · automação financeira · desenvolvimento assistido por agentes de IA
 
-**Mobile**
-Swift · SwiftUI · native iOS app development · API integration · QR Code flows
+**Mobile**  
+Swift · SwiftUI · desenvolvimento iOS nativo · integração com APIs · fluxos com QR Code
 
-**Infrastructure**
-Docker · Nginx · Cloud Run/Cloud Build · VPS/cPanel deployments · CI/CD · production runbooks
+**Infraestrutura**  
+Docker · Nginx · Cloud Run/Cloud Build · deploys em VPS/cPanel · CI/CD · runbooks de produção
 
-## AI-Assisted Engineering
+## Engenharia Assistida por IA
 
-I use AI coding agents as part of my engineering workflow to accelerate implementation, testing, code review, debugging and software delivery while keeping architectural and product decisions under engineering control.
+Uso agentes de IA como parte do meu workflow de engenharia para acelerar investigação de codebase, implementação, testes, revisão de código, debugging, documentação e entrega de software, mantendo decisões de arquitetura e produto sob controle técnico.
 
-The workflow is practical: investigate the codebase, plan the change, delegate scoped tasks when useful, review the implementation, run tests, correct failures, integrate, deploy and validate production behavior.
+O fluxo é prático: investigar o código, planejar a mudança, delegar tarefas bem delimitadas quando útil, revisar a implementação, rodar testes, corrigir falhas, integrar, fazer deploy e validar o comportamento em produção.
 
-Tools include Codex and Claude Code-style coding agents as engineering assistants, not as a replacement for architecture, product judgment or responsibility for the final system.
+Ferramentas como Codex e agentes no estilo Claude Code entram como assistentes de engenharia, não como substitutos de arquitetura, julgamento de produto ou responsabilidade pelo sistema final.
