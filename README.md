@@ -38,6 +38,8 @@ Docker · Nginx/Apache · Cloud Run/Cloud Build · VPS/cPanel deployments · CI/
 
 ## Featured Work
 
+Some production repositories are private. Public material is linked where it can be shared safely.
+
 ### 1. Açaí Finance
 
 **SaaS / Multi-Tenant / Marketplace / Payments**
