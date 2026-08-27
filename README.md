@@ -31,54 +31,58 @@ SaaS · ticketing · subscriptions · marketplaces · event operations · member
 LLM integrations · Telegram bots · financial automation · coding-agent assisted development
 
 **Mobile**
-Swift · SwiftUI · native iOS apps · API integration · QR Code flows
+Swift · SwiftUI · native iOS app development · API integration · QR Code flows
 
 **Infrastructure**
-Docker · Nginx/Apache · Cloud Run/Cloud Build · VPS/cPanel deployments · CI/CD · production runbooks
+Docker · Nginx · Cloud Run/Cloud Build · VPS/cPanel deployments · CI/CD · production runbooks
 
-## Featured Work
+## Featured Engineering Work
 
 Some production repositories are private. Public material is linked where it can be shared safely.
 
 ### 1. Açaí Finance
 
-**SaaS / Multi-Tenant / Marketplace / Payments**
+**SaaS · Multi-Tenant · Marketplace · Payments**
 
-Multi-tenant finance and commerce platform with tenant plans, POS sales, public catalog, marketplace foundation, Mercado Pago OAuth per tenant, wallet ledger, withdrawal requests, Pix/card transaction flows, subscription billing, admin metrics and isolation tests.
+SaaS platform for tenant-isolated business operations, public catalogs, POS flows, Mercado Pago payments, marketplace settlement, wallet ledger and subscription access.
+
+[View Engineering Case Study →](https://github.com/filpe19/acai-finance-case-study)
 
 ### 2. TickiTon
 
-**Ticketing / Events / Payments / Transactional Systems**
+**Ticketing · Events · Payments · Transactional Systems**
 
-Event ticketing platform with participant, producer, validator and admin roles. Includes checkout with atomic stock reservation, coupons, Mercado Pago Pix/card payments, webhook confirmation, ticket issuance, signed QR Codes, check-in history, refunds, wallet/support flows and readiness/load tests.
+Event ticketing platform with checkout, stock reservation, Mercado Pago payments, webhook confirmation, ticket generation, signed QR validation, check-in, refunds and producer/admin operations.
 
-### 3. Jornada Contábil Fiscal
+[View Engineering Case Study →](https://github.com/filpe19/tickiton-case-study)
 
-**Event Infrastructure / Ticketing / Payments**
+### 3. Jornada Contábil
 
-Laravel + React platform for event operations: public edition pages, authenticated checkout, ticket batches, inventory reservations, orders, payments through Asaas, QR check-in with validators, participant portal, certificates, event materials, support, admin/superadmin operations, legacy migration and deploy runbooks.
+**Event Infrastructure · Commerce · Payments · Production Operations**
+
+Laravel and React platform for a real event operation: authenticated checkout, Asaas payments, QR check-in, participant portal, certificates, private materials, legacy migration, admin operations and production runbooks.
+
+[View Engineering Case Study →](https://github.com/filpe19/jornada-contabil-case-study)
 
 ### 4. Club Pass Belém
 
-**Subscriptions / QR Access / Payments / iOS**
+**Subscriptions · QR Access · Payments · iOS**
 
 Subscription and access platform connecting members to partner venues through Mercado Pago payments, webhook-driven membership activation, QR Code credentials, validator check-ins, an admin panel and a native SwiftUI iOS application.
 
-Public case study: [club-pass-belem-case-study](https://github.com/filpe19/club-pass-belem-case-study)
+[View Engineering Case Study →](https://github.com/filpe19/club-pass-belem-case-study)
 
 ### 5. Finance AI
 
-**AI / Telegram / Financial Assistant / Backend**
+**AI · Telegram · Automation · Financial Assistant**
 
-Personal finance assistant inside Telegram. DeepSeek interprets user intent, while PHP/MySQL remain the source of truth for every amount, report and projection. Includes text and voice input, Redis queues, idempotent Telegram webhooks, Telegram Stars billing, privacy controls, audit logs and a React/TypeScript admin panel.
+Telegram-based financial assistant with LLM intent extraction, deterministic backend finance rules, voice input, Redis queues, idempotent webhooks, Telegram Stars billing and a React/TypeScript admin panel.
 
-### 6. Public Engineering Repository
+[View Engineering Case Study →](https://github.com/filpe19/finance-ai-case-study)
 
-**Open Source / React / TypeScript / Laravel / Flutter**
+## Public Source-Code Proof
 
-Public repository under construction for ATS resume generation and optimization, with a React/TypeScript workspace, Laravel backend scaffold and Flutter mobile scaffold.
-
-Repository: [ats](https://github.com/filpe19/ats)
+Commercial systems remain private, so the public case studies focus on architecture and product evidence. The next portfolio gap is a dedicated non-commercial repository with source code, tests, CI and Docker that demonstrates Laravel/API engineering without copying private intellectual property.
 
 ## AI-Assisted Engineering
 
