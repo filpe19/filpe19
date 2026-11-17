@@ -1,8 +1,8 @@
-<p align="center"><img src="assets/banner.png" width="100%" alt="Felipe Souza, engenheiro de software full stack em Belém, Pará: 10 sistemas em produção, 2 apps na App Store, 3 hackathons"></p>
+<p align="center"><img src="assets/banner.png" width="100%" alt="Felipe Souza, engenheiro de software full stack em Belém, Pará: 10 sistemas em produção, 2 apps na App Store, 3 hackathons, com 2º lugar no Hackathon TJPA"></p>
 
 <p align="center">
+<a href="https://patrion.online"><img src="https://img.shields.io/badge/Hackathon_TJPA_2026-2%C2%BA_lugar-B8BCC2?style=for-the-badge&labelColor=8A1C1C" alt="Hackathon TJPA 2026: 2º lugar"></a>
 <a href="https://github.com/filpe19/amazonia-viva"><img src="https://img.shields.io/badge/NASA_Space_Apps_Challenge_2026-0B3D91?style=for-the-badge" alt="NASA Space Apps Challenge 2026"></a>
-<a href="https://patrion.online"><img src="https://img.shields.io/badge/Hackathon_TJPA_2026-8A1C1C?style=for-the-badge" alt="Hackathon TJPA 2026"></a>
 <a href="https://github.com/filpe19/journeyops"><img src="https://img.shields.io/badge/Hackathon_IBM_Bob-0F62FE?style=for-the-badge" alt="Hackathon IBM Bob"></a>
 <a href="#palestra"><img src="https://img.shields.io/badge/Palestrante_Ver--O--PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Palestrante Ver-O-PHP"></a>
 <a href="https://apps.apple.com/br/app/tickiton/id6824281845"><img src="https://img.shields.io/badge/2_apps_na_App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="2 apps na App Store"></a>
@@ -18,6 +18,20 @@ A maior parte do meu código é de clientes e fica em repositórios privados. Os
 <tr>
 <td width="33%" valign="top">
 
+<a href="https://patrion.online"><img src="assets/projects/patrion.png" width="100%" alt="Patrion"></a>
+
+**Patrion**<br>
+<img src="https://img.shields.io/badge/Hackathon_TJPA_2026-2%C2%BA_lugar-B8BCC2?style=flat-square&labelColor=8A1C1C" alt="Hackathon TJPA 2026: 2º lugar">
+
+Inventário patrimonial para o Tribunal de Justiça do Pará: app offline-first, sincronização idempotente, auditoria imutável e portal de transparência. 2º lugar, feito em dupla.
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+
+[Demo](https://patrion.online)
+
+</td>
+<td width="33%" valign="top">
+
 <a href="https://amazviva.online"><img src="assets/projects/amazonia-viva.png" width="100%" alt="Amazônia Viva"></a>
 
 **Amazônia Viva**<br>
@@ -28,20 +42,6 @@ Detecções de fogo por satélite viram contexto territorial: histórico MODIS �
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white" alt="MapLibre"> <img src="https://img.shields.io/badge/NASA_FIRMS-0B3D91?style=flat-square" alt="NASA FIRMS">
 
 [Demo](https://amazviva.online) · [Código](https://github.com/filpe19/amazonia-viva)
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://patrion.online"><img src="assets/projects/patrion.png" width="100%" alt="Patrion"></a>
-
-**Patrion**<br>
-<img src="https://img.shields.io/badge/Hackathon_TJPA_2026-8A1C1C?style=flat-square" alt="Hackathon TJPA 2026">
-
-Inventário patrimonial para o Tribunal de Justiça do Pará: app offline-first, sincronização idempotente, auditoria imutável e portal de transparência. Feito em dupla.
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-
-[Demo](https://patrion.online)
 
 </td>
 <td width="33%" valign="top">
